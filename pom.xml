@@ -63,7 +63,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>2.7.17</version>
 				<configuration>
-					<mainClass>dev.fringe.app.App</mainClass>
+					<mainClass>dev.fringe.eip.App</mainClass>
 				</configuration>
 				<executions>
 					<execution>
